@@ -25,8 +25,15 @@ navbar-links:
     - Datasets: "datasets"
   About Me: "aboutme"
   Methodology: "methodology"
-  Analysis & Visualisations: "analysisandvisualisations'
-  Author's home: "https://deanattali.com"
+  Analysis & Visualisations: 
+    - Housing: "housing"
+    - Crime: "crime"
+    - Transport: "transport"
+  Conclusions:
+    - Findings: "findings"
+    - Impact: "impact"
+    - Potentials for Further Research: "potential"
+  Bibliography and Repository: "bibliography"
 
 ################
 # --- Logo --- #
