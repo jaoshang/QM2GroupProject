@@ -24,8 +24,8 @@ navbar-links:
     - Literature Review: "literaturereview"
     - Datasets: "datasets"
   About Me: "aboutme"
-  Methodology: 
-  Analysis & Visualisations:
+  Methodology: "methodology"
+  Analysis & Visualisations: "analysisandvisualisations'
   Author's home: "https://deanattali.com"
 
 ################
