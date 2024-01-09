@@ -4,7 +4,7 @@ title: Transport Analysis
 subtitle: Understanding Commute Times to UCL Through Isochrone Mapping
 ---
 
-<iframe src="https://raw.githubusercontent.com/jaoshang/QM2/main/isochrone.html" width="800" height="600"></iframe>
+<iframe src="https://jaoshang.github.io/QM2groupproject/isochrone.html" width="800" height="600"></iframe>
 
 
 My name is Inigo Montoya. I have the following qualities:
