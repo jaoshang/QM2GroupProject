@@ -13,17 +13,16 @@
 title: BASC0005 23/24 Group 10
 
 # Your name to show in the footer
-author: Joash Ang
+author: Elena De Rossi, Joash Ang
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  Home:
+  Background Information:
     - Literature Review: "literaturereview"
     - Datasets: "datasets"
-  About Me: "aboutme"
   Methodology: "methodology"
   Analysis & Visualisations: 
     - Housing: "housing"
