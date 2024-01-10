@@ -30,7 +30,7 @@ My name is Elena and I’m a second year Arts and Sciences student majoring in S
 Hi! I'm Joash, a 2nd year in BASc on the Societies Pathway. I'm 22 this year and my hometown is Singapore. I enjoy travelling and outdoor activities, with rock climbing, hiking, scuba diving and hopefully soon-to-be skydiving being some of my hobbies/interests. Academically, my interests centre around International Relations, Sociology, and Psychology, and I'm taking Spanish as my language. Notably, I enjoy the field of security studies, especially using ethnography and studying security issues through the lens of human security. I am trying to brush up on my quantitative skillset on the side, especially Python using Mimo, which is sorta like Duolingo for coding.
 
 ### Yu Yang
-<img src="img/PHOTO-2023-12-23-01-27-57.jpg"Image Alt Text" width="300" />
+<img src="img/PHOTO-2023-12-23-01-27-57.jpg" alt="Image Alt Text" width="300" />
 Hi! My name is Yu, I’m a second year BASc student on the Sciences pathway. I’m from China and l’m 20 years old. l am interested in mathematics l believe that mathematics is a subject combines logic and aesthetics and in my leisure time I sometimes go fishing to relax myself.
 
 ### Yun Tan
