@@ -13,15 +13,19 @@ Attracting the attention of policy makers and institutions, this issue is extrem
 The primary aim of this research is to unravel patterns that can streamline the student accommodation search process, providing valuable insights for informed decision-making. To achieve this, the project sets out to:
 
 **Collect comprehensive data**
+
 Utilize datasets from property websites, Statista, and student accommodation platforms to compile information on rental prices, property features, and geographic locations.
 
 **Geospatially analyse**
+
 Map rental prices in London boroughs, focusing on areas surrounding key universities to ensure relevance to the student population.
 
 **Integrate key indicators**
+
 Integrate additional factors such as crime rates and transportation accessibility to provide a holistic understanding of the housing market.
 
 **Statistically analyse**
+
 Employ statistical methods to analyze indicators such as averages and medians, unveiling central trends in rental prices and their correlation to other variables.
 
 A successful completion of this project promises to deliver in-depth insights into the challenges faced by London's diverse student population. By providing a nuanced understanding of the factors influencing student housing choices, the research aims to be a valuable resource for policymakers, institutions, and students alike, facilitating more informed and strategic decisions in navigating the intricate landscape of London's student accommodation.
