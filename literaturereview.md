@@ -8,13 +8,13 @@ title: Literature Review
 Recent literature on the UK housing market suggests that the country is facing a housing crisis, most severely in the London area. The UK housing dilemma can be linked to two key trends: a recurring supply and demand imbalance and the decline in housing affordability. British real estate company Savills uses the Standard Method to calculate housing need and provides key figures suggesting that the London market will continue to see high demand and low supply, especially at the lower end (figure 1) (Savills, 2023).
 
 #### Figure 1: The lower end of the market will continue to see the highest demand with lowest supply
-![Alt Text](Screenshot 2023-12-19 at 14.23.42.png)
+![Alt Text](img/Screenshot 2023-12-19 at 14.23.42.png)
 **Source: Savills Research, Moloir, DLUHC, CACI**
 
 Low housing supply is coupled with great affordability issues, indicated by analyses on the current House Price Index. The following figure maps the trends in the HPI, GDP per capita, and construction rates between 1974 and 2015, showing HPI exceeding GDP per capita, most extremely in London. This paints a concerning picture of rising prices outstripping rising incomes, with supply being unresponsive to changes (Hilber & Schhni, 2016).
 
 #### Figure 2: UK HPI (real), UK GDP per capita Index (real), and Construction Index trends
-![Alt Text](Screenshot 2023-12-19 at 14.35.46.png)
+![Alt Text](img/Screenshot 2023-12-19 at 14.35.46.png)
 **Source: from (Hilber & Schhni, 2016) calculated from Nationwide, Office for National Statistics, Department for Communities and Local Government**
 
 The trend remains when comparing the UK to other OECD members. The HBF’s 2023 international housing audit in fact found that the UK has the lowest percentage of vacant dwellings per capital of all OECD countries. Furthermore, considering house price to income, the rate of housing unaffordability in the UK has increased by a fifth more than in Europe, with rents in London being higher than most other European capital cities (Home Builders Federation, 2023).
@@ -31,7 +31,7 @@ The literature also critically evaluates the UK’s policy-making efforts, parti
 The literature indicates a growing number of students in the UK and a favourable trend in student mobility, both on a global scale and within the country. UCAS’s Journey to a Million in fact predicts that UK higher education will reach a million applicants by 2030, marking a significant growth in demand.
 
 #### Figure 3: projected total number of applicants until 2030
-![Alt Text](Screenshot 2023-12-19 at 14.45.59.png)
+![Alt Text](img/Screenshot 2023-12-19 at 14.45.59.png)
 **Source: UCAS 2022**
 
 From an international point of view, data from the UNESCO shows how the mobility of global students has greatly increased over the past few decades, with numbers growing from 2 to 6.36 million between 2000 and 2020 (Uis, 2020). This trend can be further projected into the future, as recent UCAS data on the 2023 cycle shows a 3.1% increase in international demand (UCAS, 2023), highlighting the ongoing attraction of the UK higher education system.
@@ -48,13 +48,13 @@ Social and economic factors play an important role in the push-pull model, makin
 This is visually shown by the student academic experience survey by the HEPI and UCAS that highlights the cost of living as an increasingly important concern in a student’s life 
 
 #### Figure 4: Studying related costs that are currently of most concern to students
-![Alt Text](Screenshot 2023-12-19 at 17.24.11.png)
+![Alt Text](img/Screenshot 2023-12-19 at 17.24.11.png)
 **Source: 2022 Student Academic Experience survey**
 
 ,and as one of the key drivers of unsatisfaction (Figure 5) (Neves & Brown, 2022).
 
 #### Figure 5: Factors influencing perceptions of poor value for money
-![Alt Text](Screenshot 2023-12-19 at 17.25.35.png)
+![Alt Text](img/Screenshot 2023-12-19 at 17.25.35.png)
 **Source: 2022 Student Academic Experience survey**
 
 Given that London universities are significant contributors to the economy and labour market, literature by government bodies highlights an agenda stressing for the improvement of student accommodation to avoid compromising London’s growth and attractiveness (GOVUK, 2023). The city in fact risks losing talent and investment if unaffordability and undersupply are not addressed.
