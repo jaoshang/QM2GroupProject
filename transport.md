@@ -7,6 +7,8 @@ subtitle: Understanding Commute Times to UCL Through Isochrone Mapping
 
 My name is Inigo Montoya. I have the following qualities:
 
+{% include_relative assets/boroughoverlay.html %}
+
 - I rock a great mustache
 - I'm extremely loyal to my family
 
