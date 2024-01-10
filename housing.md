@@ -4,7 +4,7 @@ title: Housing Data Analysis
 subtitle: Why you'd want to go on a date with me
 ---
 
-<iframe width="100%" height="400" src="https://jaoshang.github.io/QM2groupproject/assets/boroughprices.html"></iframe>
+<iframe width="100%" height="600" src="https://jaoshang.github.io/QM2groupproject/assets/boroughprices.html"></iframe>
 
 ![Rents by Room Type](assets/img/rentplot.png)
 
