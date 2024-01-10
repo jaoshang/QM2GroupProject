@@ -3,7 +3,7 @@ layout: home
 title: University Student Housing in London
 subtitle: How can a greater understanding of the London renting market better inform students’ decision-making when looking for accommodation?
 ---
-## Research questions
+## <span style="color: #8b0000;">Research questions </span>
 
 ### Affordability
 1. Where and what are the most affordable boroughs to rent in London?
