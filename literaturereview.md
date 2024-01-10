@@ -11,7 +11,7 @@ Recent literature on the UK housing market suggests that the country is facing a
 
 Low housing supply is coupled with great affordability issues, indicated by analyses on the current House Price Index. The following figure maps the trends in the HPI, GDP per capita, and construction rates between 1974 and 2015, showing HPI exceeding GDP per capita, most extremely in London. This paints a concerning picture of rising prices outstripping rising incomes, with supply being unresponsive to changes (Hilber & Schhni, 2016).
 
-![Alt Text](Screenshot 2023-12-19 at 14.35.46.png)
+![Alt Text](Screenshot 2023-12-19 at 14.23.42.png)
 
 The trend remains when comparing the UK to other OECD members. The HBF’s 2023 international housing audit in fact found that the UK has the lowest percentage of vacant dwellings per capital of all OECD countries. Furthermore, considering house price to income, the rate of housing unaffordability in the UK has increased by a fifth more than in Europe, with rents in London being higher than most other European capital cities (Home Builders Federation, 2023).
 
@@ -26,8 +26,7 @@ The student market
 ### Context
 The literature indicates a growing number of students in the UK and a favourable trend in student mobility, both on a global scale and within the country. UCAS’s Journey to a Million in fact predicts that UK higher education will reach a million applicants by 2030, marking a significant growth in demand.
 
-![Alt Text](Screenshot 2023-12-19 at 14.45.59.png)
-
+(insert figure)
 From an international point of view, data from the UNESCO shows how the mobility of global students has greatly increased over the past few decades, with numbers growing from 2 to 6.36 million between 2000 and 2020 (Uis, 2020). This trend can be further projected into the future, as recent UCAS data on the 2023 cycle shows a 3.1% increase in international demand (UCAS, 2023), highlighting the ongoing attraction of the UK higher education system.
 However, the literature also stresses the importance of considering increasing student demand in shifting the status of the UK economy and its needs, particularly whether it is equipped to face the predicted higher education growth. An increasing student population in London places stress on the city’s already saturated housing market. Growth trends coupled with concerns on affordability and housing supply create a complex landscape and are being analysed through government forums and policymaking.
 
