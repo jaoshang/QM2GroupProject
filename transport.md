@@ -4,6 +4,9 @@ title: Transport Analysis
 subtitle: Understanding Commute Times to UCL Through Isochrone Mapping
 ---
 
+<iframe width="100%" height="400" src="https://jaoshang.github.io/QM2groupproject/assets/isochrone.html"></iframe>
+
+
 <iframe width="100%" height="400" src="https://jaoshang.github.io/QM2groupproject/assets/boroughoverlay.html"></iframe>
 
 
