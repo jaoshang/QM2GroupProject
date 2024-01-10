@@ -4,7 +4,7 @@ title: Housing Data Analysis
 subtitle: Understanding the rental analysis through geospatial visualisation
 ---
 
-<iframe width="100%" height="1000" src="https://jaoshang.github.io/QM2groupproject/assets/boroughprices.html"></iframe>
+<iframe width="100%" height="800" src="https://jaoshang.github.io/QM2groupproject/assets/boroughprices.html"></iframe>
 
 ![Rents by Room Type](assets/img/rentplot.png)
 
