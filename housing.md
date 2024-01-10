@@ -6,6 +6,10 @@ subtitle: Why you'd want to go on a date with me
 
 <iframe width="100%" height="400" src="https://jaoshang.github.io/QM2groupproject/assets/boroughprices.html"></iframe>
 
+![Rents by Room Type](assets/img/rentplot.png)
+
+![Prices by Room Type](assets/img/priceplot.png)
+
 My name is Inigo Montoya. I have the following qualities:
 
 - I rock a great mustache
