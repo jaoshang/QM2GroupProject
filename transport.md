@@ -4,11 +4,10 @@ title: Transport Analysis
 subtitle: Understanding Commute Times to UCL Through Isochrone Mapping
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-
 <iframe width="100%" height="400" src="https://jaoshang.github.io/QM2groupproject/assets/boroughoverlay.html"></iframe>
 
+
+My name is Inigo Montoya. I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
