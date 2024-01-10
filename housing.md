@@ -4,6 +4,8 @@ title: Housing Data Analysis
 subtitle: Why you'd want to go on a date with me
 ---
 
+<iframe width="100%" height="400" src="https://jaoshang.github.io/QM2groupproject/assets/boroughprices.html"></iframe>
+
 My name is Inigo Montoya. I have the following qualities:
 
 - I rock a great mustache
