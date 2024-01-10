@@ -7,7 +7,7 @@ The housing crisis
 ### Context
 Recent literature on the UK housing market suggests that the country is facing a housing crisis, most severely in the London area. The UK housing dilemma can be linked to two key trends: a recurring supply and demand imbalance and the decline in housing affordability. British real estate company Savills uses the Standard Method to calculate housing need and provides key figures suggesting that the London market will continue to see high demand and low supply, especially at the lower end (figure 1) (Savills, 2023).
 
-(insert figure 1)
+![Alt Text](Screenshot 2023-12-19 at 14.23.42.png)
 
 Low housing supply is coupled with great affordability issues, indicated by analyses on the current House Price Index. The following figure maps the trends in the HPI, GDP per capita, and construction rates between 1974 and 2015, showing HPI exceeding GDP per capita, most extremely in London. This paints a concerning picture of rising prices outstripping rising incomes, with supply being unresponsive to changes (Hilber & Schhni, 2016).
 
