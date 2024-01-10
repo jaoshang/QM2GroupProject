@@ -15,7 +15,8 @@ subtitle: How can a greater understanding of the London renting market better in
 ### Safety
 4. How safe is it to live in these boroughs?
 
-## Meet the team!
+## <span style="color: #8b0000;">Meet the team </span>
+
 
 ### Eurus Li
 <img src="img/PHOTO-2023-12-12-15-38-16.jpg" alt="Image Alt Text" width="300" />
