@@ -3,7 +3,7 @@ layout: page
 title: Abstract
 ---
 <p style="background-color: #8b0000; padding: 10px;">This research project delves into the intricate landscape of university student housing in London, aiming to enhance our understanding of the dynamic rental market and its impact on students' decision-making processes when seeking accommodation. The central research question revolves around identifying recurring patterns in rental trends, factors influencing prices, and challenges faced by students in their housing search..</p>
----
+
 ## Purpose & motivation
 
 The surge in international student enrollment in London universities, coupled with the persistent high demand and inelastic supply of housing in London, and the growing cost of living crisis in the UK, has fueled a competitive housing market marked by escalating prices.
