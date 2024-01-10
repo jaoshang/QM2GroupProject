@@ -26,7 +26,7 @@ The student market
 ### Context
 The literature indicates a growing number of students in the UK and a favourable trend in student mobility, both on a global scale and within the country. UCAS’s Journey to a Million in fact predicts that UK higher education will reach a million applicants by 2030, marking a significant growth in demand.
 
-(insert figure 3)
+![Alt Text](Screenshot 2023-12-19 at 14.45.59.png)
 
 From an international point of view, data from the UNESCO shows how the mobility of global students has greatly increased over the past few decades, with numbers growing from 2 to 6.36 million between 2000 and 2020 (Uis, 2020). This trend can be further projected into the future, as recent UCAS data on the 2023 cycle shows a 3.1% increase in international demand (UCAS, 2023), highlighting the ongoing attraction of the UK higher education system.
 However, the literature also stresses the importance of considering increasing student demand in shifting the status of the UK economy and its needs, particularly whether it is equipped to face the predicted higher education growth. An increasing student population in London places stress on the city’s already saturated housing market. Growth trends coupled with concerns on affordability and housing supply create a complex landscape and are being analysed through government forums and policymaking.
