@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Literature review
+title: Literature Review
 ---
-## The housing crisis
+## The Housing Crisis
 ---
 ### Context
 Recent literature on the UK housing market suggests that the country is facing a housing crisis, most severely in the London area. The UK housing dilemma can be linked to two key trends: a recurring supply and demand imbalance and the decline in housing affordability. British real estate company Savills uses the Standard Method to calculate housing need and provides key figures suggesting that the London market will continue to see high demand and low supply, especially at the lower end (figure 1) (Savills, 2023).
