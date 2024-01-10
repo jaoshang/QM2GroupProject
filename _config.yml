@@ -21,8 +21,10 @@ author: Elena De Rossi, Joash Ang
 
 navbar-links:
   Background Information:
+    - Abstract: "abstract"
     - Literature Review: "literaturereview"
     - Datasets: "datasets"
+    - Limitations: "limitations"
   Methodology: "methodology"
   Analysis & Visualisations: 
     - Housing: "housing"
