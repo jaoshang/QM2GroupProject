@@ -1,10 +1,6 @@
 ---
-layout: post
+layout: page
 title: Literature review
----
----
-Literature review
----
 ---
 The housing crisis
 ---
