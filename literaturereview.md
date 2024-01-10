@@ -1,4 +1,8 @@
 ---
+layout: post
+title: Literature review
+---
+---
 Literature review
 ---
 ---
@@ -46,3 +50,5 @@ This is visually shown by the student academic experience survey by the HEPI and
 (insert figure 5)
 
 Given that London universities are significant contributors to the economy and labour market, literature by government bodies highlights an agenda stressing for the improvement of student accommodation to avoid compromising London’s growth and attractiveness (GOVUK, 2023). The city in fact risks losing talent and investment if unaffordability and undersupply are not addressed.
+
+---
