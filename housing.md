@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Housing Data Analysis
-subtitle: Why you'd want to go on a date with me
+subtitle: Understanding the rental analysis through geospatial visualisation
 ---
 
 <iframe width="100%" height="1000" src="https://jaoshang.github.io/QM2groupproject/assets/boroughprices.html"></iframe>
