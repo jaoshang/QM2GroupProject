@@ -7,7 +7,7 @@ subtitle: Understanding Commute Times to UCL Through Isochrone Mapping
 My name is Inigo Montoya. I have the following qualities:
 
 
-{% include_relative assets/isochrone_1.html %}
+<iframe width="100%" height="400" src="https://jaoshang.github.io/QM2groupproject/assets/boroughoverlay.html"></iframe>
 
 
 - I rock a great mustache
