@@ -3,7 +3,7 @@ layout: home
 title: University Student Housing in London
 subtitle: How can a greater understanding of the London renting market better inform students’ decision-making when looking for accommodation?
 ---
-## Research questions
+## Our Research Questions
 
 ### Affordability
 1. Where and what are the most affordable boroughs to rent in London?
@@ -15,8 +15,8 @@ subtitle: How can a greater understanding of the London renting market better in
 ### Safety
 4. How safe is it to live in these boroughs?
 
-## Meet the team
 
+## Meet the team
 
 ### Eurus Li
 <img src="img/PHOTO-2023-12-12-15-38-16.jpg" alt="Image Alt Text" width="250" />
@@ -45,4 +45,3 @@ Hi I’m  Yun Tan, and I’m a second year student majoring in arts and scienc
 ### Wilson Liu Zihong
 (insert picture)
 Hi! I am Wilson, a second-year sciences BAScer, and I come from China. My modules involve mathematics, coding and management sciences. Besides, my interest focuses on applying complexity system theory and interdisciplinary thinking in the studies of dynamic competition, fintech, and private equity investment. Moreover, I enjoy driving karting, and cooking in my free time.
-
