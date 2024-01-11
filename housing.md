@@ -26,7 +26,7 @@ Graphing price data, we can see the median rent that an individual would pay sta
 
 From the graph, we can interpet the following:
   1. In general, the more people that stay in a house, the cheaper it will be. 
-  3. Individual rent appears to be directly linked to shared areas.
+  2. Individual rent appears to be directly linked to shared areas.
 
 ### Discussion of these findings:
 #### More People, Cheaper Rent
@@ -34,9 +34,17 @@ From the graph, we can interpet the following:
  - This would result in an overestimation of the price for four or more bedroom houses. Notably, this means that the observation that the median rent of four or more bedroom houses being cheaper than one bedroom, studio, and two bedroom houses is even more significant, as even with this overestimation it is still cheaper than the three types.
 
 #### Share More, Less Rent
- - One bedroom and studio type houses can be understood to be the most expensive given that areas such as toilets and kitchen are only used and rent paid by one tenant.
- - With two or more bedroom type houses having these areas have shared ownership and rent split with other tenants.
- - Finally, standalone rooms can be observed to be the cheapest because the tenant does not have any ownership nor pay rent for these areas under their room rent.
+ - One bedroom and studio type houses can be understood to be the most expensive given that amenities such as toilets and kitchen are only owned, used, and rent paid by one tenant.
+ - With two or more bedroom type houses having these amenities have shared ownership, use, and rent split with other tenants.
+ - Finally, standalone rooms can be observed to be the cheapest because the tenant does not have any ownership of these amenities under their room rent.
+
+### Rents and Prices
+
+Looking at the number of rents and prices, we can conclude the following:
+ 1. Three Bedrooms are well balanced between cheap rent and amenities, as well as decent availablility in the housing market. Four or more Bedrooms could also be a cost-effective alternative, and possibly cheaper than three bedrooms.
+ 2. Two Bedrooms are the most available house type at middle of the range prices, a good option for those looking to urgently find a house.
+ 3. One Bedroom and Studios are the most expensive house types, best for individuals who enjoy full ownership and sole use of their amenities. One bedrooms are more available than studios, although this comes at an increased cost, albeit likely with more floor space.
+ 4. Standalone rooms are the cheapest house type, although it comes at a cost of having no ownership of one's amenities.
 
 # Price Analysis by Borough
 
