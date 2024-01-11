@@ -39,7 +39,7 @@ Hi! I'm Joash, a 2nd year in BASc on the Societies Pathway. I'm 22 this year and
 Hi! My name is Yu, I’m a second year BASc student on the Sciences pathway. I’m from China and l’m 20 years old. l am interested in mathematics l believe that mathematics is a subject combines logic and aesthetics and in my leisure time I sometimes go fishing to relax myself.
 
 ### Yun Tan
-(insert picture)
+<img src="img/PHOTO-2024-01-10-20-39-26.jpg" alt="Image Alt Text" width="250" />
 Hi I’m  Yun Tan, and I’m a second year student majoring in arts and sciences societies pathway. Within my pathway, my academic interests focus on economics,  management and marketing. I really enjoy the process of data visualization, which makes information more approachable. Besides, you can find me taking photographs, bouldering , and hiking. I always love to explore new interests so please call me if you plan to do something adventurous.
 
 ### Wilson Liu Zihong
