@@ -40,6 +40,7 @@ Hi! My name is Yu, I’m a second year BASc student on the Sciences pathway. I�
 
 ### Yun Tan
 <img src="img/PHOTO-2024-01-10-20-39-26.jpg" alt="Image Alt Text" width="250" />
+
 Hi I’m  Yun Tan, and I’m a second year student majoring in arts and sciences societies pathway. Within my pathway, my academic interests focus on economics,  management and marketing. I really enjoy the process of data visualization, which makes information more approachable. Besides, you can find me taking photographs, bouldering , and hiking. I always love to explore new interests so please call me if you plan to do something adventurous.
 
 ### Wilson Liu Zihong
