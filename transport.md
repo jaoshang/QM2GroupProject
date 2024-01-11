@@ -4,20 +4,13 @@ title: Transport Analysis
 subtitle: Understanding Commute Times to UCL Through Isochrone Mapping
 ---
 
-<iframe width="100%" height="100%" src="https://jaoshang.github.io/QM2groupproject/assets/isochrone.html"></iframe>
+# Isochrone Mapping of London
 
+Using the TravelTime website, we generated isochrones of various commute times and modes of commute to UCL around London.
 
-<iframe width="100%" height="100%" src="https://jaoshang.github.io/QM2groupproject/assets/boroughoverlay.html"></iframe>
+<iframe width="100%" height="800" src="https://jaoshang.github.io/QM2groupproject/assets/isochrone.html"></iframe>
 
+Overlaying a borough map of London, we can more clearly see which boroughs and areas are well connected to UCL via various commute modes.
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<iframe width="100%" height="800" src="https://jaoshang.github.io/QM2groupproject/assets/boroughoverlay.html"></iframe>
 
