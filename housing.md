@@ -25,8 +25,13 @@ Graphing price data, we can see the median rent that an individual would pay sta
 ![Prices by Room Type](assets/img/priceplot.png)
 
 From the graph, we can interpet the following:
-  - In general, the more people that stay in a house, the cheaper it will be. The only outlier is four or more bedroom types, which as discussed in the methodology have been assumed to all be four bedroom houses with four tenants, the most stringent assumption of tenancy. This would result in an overestimation of the price for four or more bedroom houses. Notably, this means that the observation that the median rent of four or more bedroom houses being cheaper than one bedroom, studio, and two bedroom houses is even more significant, as even with this overestimation it is still cheaper than the three types.
-  - Individual rent appears to be directly linked to shared areas. One bedroom and studio type houses can be understood to be the most expensive given that areas such as toilets and kitchen are only used by one tenant. With two or more bedroom type houses having these areas have shared ownership and rent split with other tenants. Finally, standalone rooms can be observed to be the cheapest because the tenant does not have any ownership nor pay rent for these areas under their room rent.
+  - In general, the more people that stay in a house, the cheaper it will be.
+   - The only outlier is four or more bedroom types, which as discussed in the methodology have been assumed to all be four bedroom houses with four tenants, the most stringent assumption of tenancy.
+   - This would result in an overestimation of the price for four or more bedroom houses. Notably, this means that the observation that the median rent of four or more bedroom houses being cheaper than one bedroom, studio, and two bedroom houses is even more significant, as even with this overestimation it is still cheaper than the three types.
+  - Individual rent appears to be directly linked to shared areas.
+   - One bedroom and studio type houses can be understood to be the most expensive given that areas such as toilets and kitchen are only used and rent paid by one tenant.
+   - With two or more bedroom type houses having these areas have shared ownership and rent split with other tenants.
+   - Finally, standalone rooms can be observed to be the cheapest because the tenant does not have any ownership nor pay rent for these areas under their room rent.
 
 # Price Analysis by Borough
 
