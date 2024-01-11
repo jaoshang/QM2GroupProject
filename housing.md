@@ -4,18 +4,20 @@ title: Housing Data Analysis
 subtitle: Understanding the rental analysis through geospatial visualisation
 ---
 
-<iframe width="120%" height="1000" src="https://jaoshang.github.io/QM2groupproject/assets/boroughprices.html"></iframe>
+# General Analysis
 
+From housing dataset of Q2 of 2011 to Q1 of 2019, we plot the number of rents and prices by house type to help understand the relative availability and prices of different house types.
+
+## Number of Rents
 ![Rents by Room Type](assets/img/rentplot.png)
 
+## Prices
 ![Prices by Room Type](assets/img/priceplot.png)
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+# Price Analysis by Borough
 
-What else do you need?
+<iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/boroughprices.html"></iframe>
 
 ### My story
 
