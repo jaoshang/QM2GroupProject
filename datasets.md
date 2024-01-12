@@ -2,7 +2,8 @@
 layout: page
 title: Datasets
 ---
-## Average Private rents, Borough – Valuation Office Agency
+## <p align="center"><span style="color: #D35400 ;">Average Private rents, Borough – Valuation Office Agency</span></p>
+
 This first dataset provides average monthly rents in the private rental market and includes:
 
 1. Mean, median and quartiles of monthly rents
@@ -11,7 +12,7 @@ This first dataset provides average monthly rents in the private rental market a
 
 It is an historical dataset that was updated quarterly up to 2013, and bi-annually until the last entry in 2019. The dataset contains valuable information for our rent price analysis will allow us to geospatially map rent price distribution and later understand the affordability of rent based on location and housing configuration.
 
-## Recorded Crime: Geographic breakdown – Metropolitan Police Service
+## <p align="center"><span style="color: #D35400 ;">Recorded Crime: Geographic breakdown – Metropolitan Police Service</span></p>
 The second datasets provides counts of crime per month and includes:
 
 1. Crime type
