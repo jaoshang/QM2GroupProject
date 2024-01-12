@@ -26,12 +26,11 @@ navbar-links:
     - Datasets: "datasets"
     - Limitations: "limitations"
   Methodology: "methodology"
-  Analysis & Visualisations: 
+  Visualisations & Findings: 
     - Housing: "housing"
     - Crime: "crime"
     - Transport: "transport"
-  Conclusions:
-    - Findings: "findings"
+  Impact & Further Research:
     - Impact: "impact"
     - Potentials for Further Research: "potential"
   Bibliography and Repository: "bibliography"
