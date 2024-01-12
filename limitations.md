@@ -6,12 +6,12 @@ title: Limitations
 
 **1. Use of historical data**
 
-Due to difficulties accessing property websites' APIs, we have conducted our analysis using a historical dataset. Despite remaining valuable in recognising long-term trends and patterns, this dataset might only partially capture the current situation as the dynamic housing market is subject to rapid changes. Therefore, periodically considering updated models to account for changes in underlying patterns is essential. External factors may also affect and skew the data, such as COVID-19 affecting the housing market between 2020 and 2023.
+Due to difficulties accessing property websites' APIs, we have conducted our analysis using a historical dataset. Despite remaining valuable in recognising long-term trends and patterns, this dataset might only partially capture the current situation as the dynamic housing market is subject to rapid changes.
 
 
 **2. Endogeneity**
 
-The relationship between variables may be independent. Endogeneity is observed when there is a complex cause-and-effect relationship between different variables, making it unclear which influences what. In this context, changes in rental prices could affect the supply or demand for housing, leading to reverse causation. We need to use a more advanced model or Implicit instrumental variables to solve it.
+The relationship between variables may be independent. Endogeneity is observed when there is a complex cause-and-effect relationship between different variables, making it unclear which influences what. In this context, changes in rental prices could affect the supply or demand for housing, leading to reverse causation.
 
 ## <span style="color: #D35400 ;">Limitations of our analysis</span>
 
