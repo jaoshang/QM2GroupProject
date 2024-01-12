@@ -5,14 +5,15 @@ subtitle: How can a greater understanding of the London renting market better in
 ---
 ## <span style="color: #D35400 ;">Our Research Questions</span>
 
-### <p align="center"> Affordability </p>
+### <p align="center">Affordability</p>
+
 <p align="center"> Where and what are the most affordable boroughs to rent in London? </p>
 <p align="center"> What housing configurations are the most cost effective? </p>
 
-### <p align="center"> Connectivity </p>
+### <p align="center">Connectivity</p>
 <p align="center"> How accessible are these boroughs to UCL, via public transport? </p>
 
-### <p align="center"> Safety </p>
+### <p align="center">Safety</p>
 <p align="center"> How safe is it to live in these boroughs? </p>
 
 
