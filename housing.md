@@ -48,6 +48,6 @@ Looking at the number of rents and prices, we can conclude the following:
 
 # Price Analysis by Borough
 
-<iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/boroughprices.html"></iframe>
+<p align="center"> <iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/boroughprices.html"></iframe>
 
 
