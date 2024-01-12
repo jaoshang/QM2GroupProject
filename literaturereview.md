@@ -50,13 +50,13 @@ This is visually shown by the student academic experience survey by the HEPI and
 
 #### Figure 4: Studying related costs that are currently of most concern to students
 ![Alt Text](img/Screenshot 2023-12-19 at 17.24.11.png)
-<p align="center"><strong><span style="color: #BA4A00;">Source: S2022 Student Academic Experience survey.</span></strong></p>
+<p align="center"><strong><span style="color: #BA4A00;">Source: 2022 Student Academic Experience survey.</span></strong></p>
 
 ,and as one of the key drivers of unsatisfaction (Figure 5) (Neves & Brown, 2022).
 
 #### Figure 5: Factors influencing perceptions of poor value for money
 ![Alt Text](img/Screenshot 2023-12-19 at 17.25.35.png)
-<p align="center"><strong><span style="color: #BA4A00;">Source: S2022 Student Academic Experience survey.</span></strong></p>
+<p align="center"><strong><span style="color: #BA4A00;">Source: 2022 Student Academic Experience survey.</span></strong></p>
 
 Given that London universities are significant contributors to the economy and labour market, literature by government bodies highlights an agenda stressing for the improvement of student accommodation to avoid compromising London’s growth and attractiveness (GOVUK, 2023). The city in fact risks losing talent and investment if unaffordability and undersupply are not addressed.
 
