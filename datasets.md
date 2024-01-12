@@ -28,3 +28,11 @@ The second datasets provides counts of crime per month and includes:
 
 This is also an historical dataset, but appears less clear than the rent data, facing problems such as double counting of crimes that will be addressed in the process of data cleaning. Nevertheless, the data will allow us to assess the safety of each borough, which, integrated with the rent price analysis, will add another dimension to student’s decision making process.
 
+## <span style="color: #D35400 ;">Commute Times: - TravelTime API Playground</span>
+Finally, geoJSON files bounding areas were generated using a free software, based on:
+
+<strong>1. Mode of Transport</strong>
+
+<strong>2. Commute Time</strong>
+
+https://playground.traveltime.com/isochrones
