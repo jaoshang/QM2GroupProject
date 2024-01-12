@@ -2,7 +2,7 @@
 layout: page
 title: Limitations
 ---
-## Limitations of our datasets
+## <span style="color: #D35400 ;">Limitations of our datasets</span>
 
 **1. Use of historical data**
 
@@ -12,7 +12,7 @@ Due to difficulties in accessing property websites APIs, we have conducted our a
 
 Endogeneity is observed when there is a complex cause-and-effect relationship between different variables, in that it appears unclear which one influences what. In this context, changes in rental prices could affect the supply or demand for housing, leading to reverse causation.
 
-## Limitations of our analysis
+## <span style="color: #D35400 ;">Limitations of our analysis</span>
 
 **3. Housing configuration ambiguity**
 
