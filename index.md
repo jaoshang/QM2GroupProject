@@ -2,6 +2,7 @@
 layout: home
 title: University Student Housing in London
 subtitle: How can a greater understanding of the London renting market better inform students’ decision-making when looking for accommodation?
+cover-img: "img/Screenshot 2023-12-27 at 15.12.38.png"
 ---
 ## <span style="color: #D35400 ;">Our Research Questions</span>
 
