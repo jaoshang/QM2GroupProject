@@ -30,7 +30,8 @@ navbar-links:
     - Housing: "housing"
     - Crime: "crime"
     - Transport: "transport"
-  Impact & Further Research:
+  Conclusions:
+    - Overall Findings: "findings"
     - Impact: "impact"
     - Potentials for Further Research: "potential"
   Bibliography and Repository: "bibliography"
