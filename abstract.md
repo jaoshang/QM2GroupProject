@@ -17,15 +17,15 @@ The primary aim of this research is to unravel patterns that can streamline the 
 
 Utilize datasets from property websites, Statista, and student accommodation platforms to compile information on rental prices, property features, and geographic locations.
 
-**Geospatially Analyse**
+ <p align="center"><strong>Geospatially analyse</strong></p>
 
 Map rental prices in London boroughs, focusing on areas surrounding key universities to ensure relevance to the student population.
 
-**Integrate Key Indicators**
+ <p align="center"><strong>Integrate key indicators</strong></p>
 
 Integrate additional factors such as crime rates and transportation accessibility to provide a holistic understanding of the housing market.
 
-**Statistically Analyse**
+ <p align="center"><strong>Statistically analyse</strong></p>
 
 Employ statistical methods to analyze indicators such as averages and medians, unveiling central trends in rental prices and their correlation to other variables.
 
