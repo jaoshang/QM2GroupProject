@@ -26,7 +26,7 @@ The UK housing crisis has been characterised as one of under-supply, which has b
 The literature also critically evaluates the UK’s policy-making efforts, particularly stressing the reform of the planning system. Dianati et al. argue that existing policies tend to only address the symptoms of the housing crisis rather than its underlying causes therefore failing to address affordability issues. In London, policies such as ‘Help-to-Buy’ are criticized for feeding demand rather than boosting supply. On the other hand, the supply preoccupation is limiting the development of policies aimed at mediating demand and introducing stabilising forces (Gallent et al., 2017). Overall, as the stagnant supply is coupled with positive demand shocks, prices will continue to rise causing the affordability crisis to persevere.
 
 ---
-## The student market
+## <span style="color: #D35400 ;">The Student Market</span>
 ---
 ### Context
 The literature indicates a growing number of students in the UK and a favourable trend in student mobility, both on a global scale and within the country. UCAS’s Journey to a Million in fact predicts that UK higher education will reach a million applicants by 2030, marking a significant growth in demand.
