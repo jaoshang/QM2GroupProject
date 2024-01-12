@@ -13,7 +13,7 @@ Attracting the attention of policy makers and institutions, this issue is extrem
 ## <span style="color: #D35400 ;">Aims & Objectives</span>
 The primary aim of this research is to unravel patterns that can streamline the student accommodation search process, providing valuable insights for informed decision-making. To achieve this, the project sets out to:
 
-**Collect Comprehensive Data**
+ <p align="center"><strong>Collect comprehensive data</strong></p>
 
 Utilize datasets from property websites, Statista, and student accommodation platforms to compile information on rental prices, property features, and geographic locations.
 
