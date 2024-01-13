@@ -27,9 +27,13 @@ cover-img: "img/Screenshot 2023-12-27 at 15.12.38.png"
 ## <span style="color: #D35400 ;">Meet the Team</span>
 
 <p align="center"><strong>Eurus Li</strong></p>
-<p align="center"> <img src="img/PHOTO-2023-12-12-15-38-16.jpg" alt="Image Alt Text" width="250" /> </p>
 
+<div style="float: left; margin: 0 0 1em 1em;">
+  ![Alt Text](img/PHOTO-2023-12-12-15-38-16.jpg)
+</div>
 Hi I'm Eurus Li, a sophomore in Arts and Sciences, majoring in Science and Engineering and minoring in Societies. My research directions are archeology and economic management, and I'm interested in global real-time news and international situations. I also enjoy hanging out with friends and traveling during the holidays. I come from Beijing China, and I think London has given me something very similar to my hometown. I guess I will continue my study and life in the UK.
+
+
 
 <p align="center"><strong>Elena De Rossi</strong></p>
 <p align="center"> <img src="img/IMG_6865.jpeg" alt="Image Alt Text" width="250" /> </p>
