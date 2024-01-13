@@ -4,7 +4,7 @@ title: Limitations
 ---
 ## <span style="color: #D35400 ;">Limitations of our datasets</span>
 
-<img src="img/Screenshot 2024-01-13 at 10.18.51.png" alt="Image Alt Text" width="100" />
+<p align="center"> <img src="img/PHOTO-2023-12-12-15-38-16.jpg" alt="Image Alt Text" width="250" /> </p>
 
 <p align="center"><strong>1. Use of historical data</strong></p>
 
