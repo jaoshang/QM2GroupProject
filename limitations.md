@@ -4,10 +4,13 @@ title: Limitations
 ---
 ## <span style="color: #D35400 ;">Limitations of our datasets</span>
 
+<p align="center"> <img src="img/Screenshot 2024-01-13 at 10.18.51.png" alt="Image Alt Text" width="100" /> </p>
+
 **1. Use of historical data**
 
 Due to difficulties accessing property websites' APIs, we have conducted our analysis using a historical dataset. Despite remaining valuable in recognising long-term trends and patterns, this dataset might only partially capture the current situation as the dynamic housing market is subject to rapid changes.
 
+<p align="center"> <img src="img/Screenshot 2024-01-13 at 10.23.11.png" alt="Image Alt Text" width="100" /> </p>
 
 **2. Endogeneity**
 
