@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Limitations
-cover-img: "img/Screenshot 2024-01-13 at 11.50.46.png"
 ---
 ## <span style="color: #D35400 ;">Limitations of our datasets</span>
 
