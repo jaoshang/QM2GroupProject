@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Literature Review
-cover-img: "img/Screenshot 2024-01-13 at 10.49.26.png"
+cover-img: "img/Screenshot 2024-01-13 at 10.57.42.png"
 ---
+
 ## <span style="color: #D35400 ;">The Housing Crisis</span>
 ---
 ### Context
