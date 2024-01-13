@@ -6,16 +6,21 @@ cover-img: "img/Screenshot 2023-12-27 at 15.12.38.png"
 ---
 ## <span style="color: #D35400 ;">Our Research Questions</span>
 
- <p align="center"><strong>Affordability</strong></p>
+![Alt Text](img/Screenshot 2024-01-13 at 14.40.47.png){: width="100" height="100"}
+<strong>Affordability</strong>
 
-<p align="center"> Where and what are the most affordable boroughs to rent in London? </p>
-<p align="center"> What housing configurations are the most cost effective? </p>
+1. Where and what are the most affordable boroughs to rent in London?
+2. What housing configurations are the most cost effective?
 
-<p align="center"><strong>Conncectivity</strong></p>
-<p align="center"> How accessible are these boroughs to UCL, via public transport? </p>
+![Alt Text](img/Screenshot 2024-01-13 at 14.40.55.png){: width="100" height="100"}
+<strong>Connectivity</strong>
 
-<p align="center"><strong>Safety</strong></p>
-<p align="center"> How safe is it to live in these boroughs? </p>
+3. How accessible are these boroughs to UCL, via public transport?
+
+![Alt Text](img/Screenshot 2024-01-13 at 14.41.03.png){: width="100" height="100"}
+<strong>Safety</strong>
+
+4. How safe is it to live in these boroughs?
 
 
 
