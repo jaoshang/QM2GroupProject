@@ -2,9 +2,9 @@
 layout: page
 title: Datasets
 ---
-<p align="center"> <img src="img/Screenshot 2024-01-12 at 11.46.24.png" alt="Image Alt Text" width="100" /> </p>
 
 ## <span style="color: #D35400 ;">Average Private rents, Borough – Valuation Office Agency</span>
+<p align="center"> <img src="img/Screenshot 2024-01-12 at 11.46.24.png" alt="Image Alt Text" width="100" /> </p>
 
 This first dataset provides average monthly rents in the private rental market and includes:
 
