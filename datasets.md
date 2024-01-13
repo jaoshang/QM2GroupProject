@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Datasets
-cover-img: "img/Screenshot 2024-01-13 at 11.30.45.png"
+cover-img: "img/Screenshot 2024-01-13 at 11.34.04.png"
 ---
 ![Alt Text](img/Screenshot 2024-01-12 at 11.46.24.png){: width="100" height="100"}
 
