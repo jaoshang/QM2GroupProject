@@ -52,4 +52,36 @@ Looking at the number of rents and prices, we can conclude the following:
 
 <p align="center"> <iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/boroughprices.html"></iframe>
 
+# <span style="color: #D35400 ;">Price Analysis by Configuration</span>
 
+## One Bedroom
+
+<p align="center"> <iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/One Bedroom.html"></iframe>
+ 
+<p align="center"> <iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/One Bedroom Shared.html"></iframe>
+
+## Three Bedroom
+
+<p align="center"> <iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/Three Bedroom.html"></iframe>
+ 
+<p align="center"> <iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/Three Bedroomindiv.html"></iframe>
+
+## Studio
+
+<p align="center"> <iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/Studio.html"></iframe>
+
+## Two Bedroom
+
+<p align="center"> <iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/Two Bedroom.html"></iframe>
+ 
+<p align="center"> <iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/Two Bedroomindiv.html"></iframe>
+
+## Four or more Bedroom
+
+<p align="center"> <iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/Four or more Bedrooms.html"></iframe>
+ 
+<p align="center"> <iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/Four or more Bedroomsindiv.html"></iframe>
+
+## Standalone Room
+
+<p align="center"> <iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/Room.html"></iframe>
