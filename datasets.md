@@ -2,7 +2,7 @@
 layout: page
 title: Datasets
 ---
-![Alt Text](img/Screenshot 2024-01-12 at 11.46.24.png){: width="100" height="100"}
+<div style="text-align:center">![Alt Text](img/Screenshot 2024-01-12 at 11.46.24.png){: width="100" height="100"}</div>
 
 ## <span style="color: #D35400 ;">Average Private rents, Borough – Valuation Office Agency</span>
 
