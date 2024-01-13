@@ -4,7 +4,7 @@ title: Housing Data Analysis
 subtitle: Understanding the rental analysis through geospatial visualisation
 ---
 
-# General Analysis
+# <span style="color: #D35400 ;">General Analysis</span>
 
 From housing dataset of Q2 of 2011 to Q1 of 2019, we plot the number of rents and prices by house type to help understand the relative availability and prices of different house types.
 
@@ -28,7 +28,8 @@ From the graph, we can interpet the following:
   1. In general, the more people that stay in a house, the cheaper it will be. 
   2. Individual rent appears to be directly linked to shared areas.
 
-### Discussion of these findings:
+
+### <span style="color: #BA4A00 ;">Discussion of these findings</span>
 #### More People, Cheaper Rent
  - The only outlier is four or more bedroom types, which as discussed in the methodology have been assumed to all be four bedroom houses with four tenants, the most stringent assumption of tenancy.
  - This would result in an overestimation of the price for four or more bedroom houses. Notably, this means that the observation that the median rent of four or more bedroom houses being cheaper than one bedroom, studio, and two bedroom houses is even more significant, as even with this overestimation it is still cheaper than the three types.
@@ -46,7 +47,8 @@ Looking at the number of rents and prices, we can conclude the following:
  3. One Bedroom and Studios are the most expensive house types, best for individuals who enjoy full ownership and sole use of their amenities. One bedrooms are more available than studios, although this comes at an increased cost, albeit likely with more floor space.
  4. Standalone rooms are the cheapest house type, although it comes at a cost of having no ownership of one's amenities.
 
-# Price Analysis by Borough
+
+# <span style="color: #D35400 ;">Price Analysis by Borough</span>
 
 <p align="center"> <iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/boroughprices.html"></iframe>
 
