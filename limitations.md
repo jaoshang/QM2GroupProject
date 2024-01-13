@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Limitations
+cover-img: "img/Screenshot 2024-01-13 at 11.50.46.png"
 ---
 ## <span style="color: #D35400 ;">Limitations of our datasets</span>
 
@@ -25,6 +26,7 @@ The relationship between variables may be independent. Endogeneity is observed w
 Our rent data set identifies various housing configurations, ranging from one bedroom to a studio to four or more bedrooms. This last arrangement encompasses more than one specific number of rooms (might include five, six, or seven-room configurations), making comparing rent per single tenant harder. To tackle this problem, we have decided to limit the '4 or more bedrooms' to four bedrooms only, meaning that our rent analysis overestimates prices for that housing configuration.
 
 ![Alt Text](img/Screenshot 2024-01-13 at 11.42.14.png){: width="100" height="100"}
-<p align="center"><strong>4. Restricted connectivity mapping</strong></p>
+
+<strong>4. Restricted connectivity mapping</strong>
 
 For the connectivity analysis, we have chosen to consider transport accessibility of different boroughs to UCL only to narrow our focus and avoid mapping potentially five more areas to connect to other London universities. However, this limits our analysis because we might need to recognise emerging trends by considering routes to other universities.
