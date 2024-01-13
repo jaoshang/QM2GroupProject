@@ -4,9 +4,13 @@ title: Limitations
 ---
 ## <span style="color: #D35400 ;">Limitations of our datasets</span>
 
+![Alt Text](img/Screenshot 2024-01-13 at 10.18.51.png){: width="100" height="100"}
+
 <p align="center"><strong>1. Use of historical data</strong></p>
 
 Due to difficulties accessing property websites' APIs, we have conducted our analysis using a historical dataset. Despite remaining valuable in recognising long-term trends and patterns, this dataset might only partially capture the current situation as the dynamic housing market is subject to rapid changes.
+
+![Alt Text](img/Screenshot 2024-01-13 at 10.23.11.png){: width="100" height="100"}
 
 <p align="center"><strong>2. Endogeneity</strong></p>
 
@@ -14,10 +18,13 @@ The relationship between variables may be independent. Endogeneity is observed w
 
 ## <span style="color: #D35400 ;">Limitations of our analysis</span>
 
+![Alt Text](img/Screenshot 2024-01-13 at 11.40.15.png){: width="100" height="100"}
+
 <p align="center"><strong>3. Housing configuration ambiguity</strong></p>
 
 Our rent data set identifies various housing configurations, ranging from one bedroom to a studio to four or more bedrooms. This last arrangement encompasses more than one specific number of rooms (might include five, six, or seven-room configurations), making comparing rent per single tenant harder. To tackle this problem, we have decided to limit the '4 or more bedrooms' to four bedrooms only, meaning that our rent analysis overestimates prices for that housing configuration.
 
+![Alt Text](img/Screenshot 2024-01-13 at 11.42.14.png){: width="100" height="100"}
 <p align="center"><strong>4. Restricted connectivity mapping</strong></p>
 
 For the connectivity analysis, we have chosen to consider transport accessibility of different boroughs to UCL only to narrow our focus and avoid mapping potentially five more areas to connect to other London universities. However, this limits our analysis because we might need to recognise emerging trends by considering routes to other universities.
