@@ -54,5 +54,5 @@ Hi! My name is Yu, I’m a second year BASc student on the Sciences pathway. I�
 Hi I’m  Yun Tan, and I’m a second year student majoring in arts and sciences societies pathway. Within my pathway, my academic interests focus on economics,  management and marketing. I really enjoy the process of data visualization, which makes information more approachable. Besides, you can find me taking photographs, bouldering , and hiking. I always love to explore new interests so please call me if you plan to do something adventurous.
 
 <p align="center"><strong>Wilson Liu Zihong</strong></p>
-(insert picture)
+<p align="center"> <img src="img/PHOTO-2024-01-13-22-54-12.jpg" alt="Image Alt Text" width="250" /> </p>
 Hi! I am Wilson, a second-year sciences BAScer, and I come from China. My modules involve mathematics, coding and management sciences. Besides, my interest focuses on applying complexity system theory and interdisciplinary thinking in the studies of dynamic competition, fintech, and private equity investment. Moreover, I enjoy driving karting, and cooking in my free time.
