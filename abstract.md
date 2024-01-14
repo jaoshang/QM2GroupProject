@@ -17,19 +17,23 @@ Attracting the attention of policy makers and institutions, this issue is extrem
 ## <span style="color: #D35400 ;">Aims & Objectives</span>
 The primary aim of this research is to unravel patterns that can streamline the student accommodation search process, providing valuable insights for informed decision-making. To achieve this, the project sets out to:
 
- <p align="center"><strong>Collect comprehensive data</strong></p>
+![Alt Text](img/Screenshot 2024-01-14 at 18.04.15.png){: width="100" height="100"}
+ <strong>Collect comprehensive data</strong>
 
 Utilize datasets from property websites, Statista, and student accommodation platforms to compile information on rental prices, property features, and geographic locations.
 
- <p align="center"><strong>Geospatially analyse</strong></p>
+![Alt Text](img/Screenshot 2024-01-14 at 18.04.08.png){: width="100" height="100"}
+<strong>Geospatially analyse</strong>
 
 Map rental prices in London boroughs, focusing on areas surrounding key universities to ensure relevance to the student population.
 
- <p align="center"><strong>Integrate key indicators</strong></p>
+![Alt Text](img/Screenshot 2024-01-14 at 18.04.41.png){: width="100" height="100"}
+ <strong>Integrate key indicators</strong>
 
 Integrate additional factors such as crime rates and transportation accessibility to provide a holistic understanding of the housing market.
 
- <p align="center"><strong>Statistically analyse</strong></p>
+![Alt Text](img/Screenshot 2024-01-14 at 18.04.21.png){: width="100" height="100"}
+ <strong>Statistically analyse</strong>
 
 Employ statistical methods to analyze indicators such as averages and medians, unveiling central trends in rental prices and their correlation to other variables.
 
