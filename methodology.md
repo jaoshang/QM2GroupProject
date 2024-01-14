@@ -41,6 +41,21 @@ The crime data after cleaning by python is presented in a dataframe with columns
 
 An isochrone is a geographic area that represents locations reachable within a certain time frame from a specific point, based on a mode of transportation. In our case, the data represents areas that can be reached within 30 minutes of walking, cycling and using public transportation from a specific point, using coordinates (longitude and latitude) that outline the areas.
 
+## Data visualisation
+
+### Choropleth map
+Onced the dataset is cleaned, the first visualisation is to make a choropleth map which shows the median housing price in various boroughs.
+
+![Alt Text](img/Screenshot 2024-01-14 at 11.07.08.png){: width="400" }
+
+We first use the data frame ‘rentallcat’ to contain necessary data for the map, and define the geographical boundaries of each borough using a GeoJSON object. After that, we use the px.chotopleth function from plotly express to create the choropleth map, and use location parameters to link the DataFrame's borough identifiers with their geographical representations in GeoJSON object. We then specify the map's geographical scope to 'Europe' to focus on the relevant area. The next step is to assign the 'Median' column from the DataFrame to the 'color' parameter, and setting the color scale range from 500 to 2750, reflecting the expected range of median housing prices. Lastly, we implement an animated transition through the years using 'animation_frame' parameter that is set to 'year' column.
+
+### Histogram
+A histogram displays information in a simple manner whilst being effective at emphasising differences. For the sake of this example, we will be making a histogram of the number of rentals by rooms in our rent dataset. This will give an indication of what categories have a greater popularity. Here we are creating a bar chart using 'plt.bar() function and using matplotlib to set the variables we want to plot as x and y
+
+![Alt Text](img/Screenshot 2024-01-14 at 11.16.41.png){: width="400" }
+
+
 
 
 
