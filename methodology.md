@@ -2,7 +2,7 @@
 layout: page
 title: Methodology
 ---
-After reviewing literature on the student housing market in London and noting the significant imbalance between demand and supply, we concluded that the primary aim of this research is to uncover patterns that can streamline the student accommodation search process, providing valuable insights for informed decision-making. However, we realised that analysing student housing within the London borough area would be challenging, mainly due to the constraints in effectively gathering quality data about where students actually live, which relates to ethical issues. We decided to restrict our study to UCL students and the overall housing market, since there is no difference in price and distribution of housing between student renting and normal renting.
+<p align="center">After reviewing literature on the student housing market in London and noting the significant imbalance between demand and supply, we concluded that the primary aim of this research is to uncover patterns that can streamline the student accommodation search process, providing valuable insights for informed decision-making. However, we realised that analysing student housing within the London borough area would be challenging, mainly due to the constraints in effectively gathering quality data about where students actually live, which relates to ethical issues. We decided to restrict our study to UCL students and the overall housing market, since there is no difference in price and distribution of housing between student renting and normal renting.</p>
 
 ## <span style="color: #D35400 ;">Importing libraries</span>
 For any visualisation being made, the first step was always to import the libraries we would use. In this case, these were:
