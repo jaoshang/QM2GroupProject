@@ -10,7 +10,7 @@ cover-img: "img/Screenshot 2024-01-14 at 15.05.39.png"
 
 The surge in international student enrollment in London universities, coupled with the persistent high demand and inelastic supply of housing in London, and the growing cost of living crisis in the UK, has fueled a competitive housing market marked by escalating prices.
 
-![Alt Text](img/Screenshot 2024-01-14 at 15.39.17.png){: width="500" }
+![Alt Text](img/Screenshot 2024-01-14 at 15.39.17.png){: width="800" }
 
 Attracting the attention of policy makers and institutions, this issue is extremely relevant in current times, becoming a recurring experience of new and returning university students every year. The project seeks to address the pressing concerns of university students, occupied with questions of where and when to look for accommodation, and what general factors to look out for when searching for housing.
 
