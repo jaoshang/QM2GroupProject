@@ -52,7 +52,7 @@ Looking at the number of rents and prices, we can conclude the following:
 
 First, a overall picture of the London housing market is provided by mapping prices by borough.
 
-<p align="center"> <iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/boroughprices.html"></iframe>
+<iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/boroughprices.html"></iframe>
 
 
 # <span style="color: #D35400 ;">Price Analysis by Configuration</span>
@@ -63,50 +63,49 @@ Referring to them can provide an indication of which boroughs of London have bee
 ## One Bedroom
 
 
-<p align="center"> <iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/One Bedroom.html"></iframe>
+<iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/One Bedroom.html"></iframe>
 
 
 A innovative solution to make one bedrooms a more-cost effective option could be for couples to move in together, as done in many Asian countries, to split rent. This would also benefit from having a greater prevalence of one bedroom listings.
 
 
-<p align="center"> <iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/One Bedroom Shared.html"></iframe>
+<iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/One Bedroom Shared.html"></iframe>
 
 
 ## Three Bedroom
 
 
-<p align="center"> <iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/Three Bedroom.html"></iframe>
+<iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/Three Bedroom.html"></iframe>
 
  
-<p align="center"> <iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/Three Bedroomindiv.html"></iframe>
+<iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/Three Bedroomindiv.html"></iframe>
 
 
 ## Studio
 
 
-<p align="center"> <iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/Studio.html"></iframe>
+<iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/Studio.html"></iframe>
 
 
 ## Two Bedroom
 
 
-<p align="center"> <iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/Two Bedroom.html"></iframe>
+<iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/Two Bedroom.html"></iframe>
 
  
-<p align="center"> <iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/Two Bedroomindiv.html"></iframe>
+<iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/Two Bedroomindiv.html"></iframe>
 
 
 ## Four or more Bedroom
 
 
-<p align="center"> <iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/Four or more Bedrooms.html"></iframe>
+<iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/Four or more Bedrooms.html"></iframe>
 
  
-<p align="center"> <iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/Four or more Bedroomsindiv.html"></iframe>
+<iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/Four or more Bedroomsindiv.html"></iframe>
 
 
 ## Standalone Room
 
-
-<p align="center"> <iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/Room.html"></iframe>
+<iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/Room.html"></iframe>
 
