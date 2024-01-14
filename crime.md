@@ -9,7 +9,7 @@ title: Crime Analysis
 Crime rates within the London boroughs were mapped, with increasing resolution, to better understand crime around London.
 
 ## Total Crime
-<p align="center"> <iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/totalcrime.html"></iframe>
+<iframe width="100%" height="800" src="https://jaoshang.github.io/QM2groupproject/assets/totalcrime.html"></iframe>
 
 From the graph, we can interpet the following:
   - City of London is the safest borough near UCL, with 24.3k crimes.
