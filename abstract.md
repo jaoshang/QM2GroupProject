@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Abstract
-cover-img: "img/Screenshot 2024-01-14 at 14.48.42.png"
+cover-img: "img/Screenshot 2024-01-05 at 12.58.37.png"
 ---
 <p align="center">This research project delves into the intricate landscape of university student housing in London, aiming to enhance our understanding of the dynamic rental market and its impact on students' decision-making processes when seeking accommodation. The central research question revolves around identifying recurring patterns in rental trends, factors influencing prices, and challenges faced by students in their housing search.</p>
 
