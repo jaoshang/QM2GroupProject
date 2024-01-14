@@ -55,11 +55,15 @@ Looking at the number of rents and prices, we can conclude the following:
 
 # <span style="color: #D35400 ;">Price Analysis by Configuration</span>
 
+We then mapped out the individual rent prices for various room configurations, being arranged by how likely people consider such configurations based on our previous conclusions.
+Referring to them can provide an indication of which boroughs of London have been historically cheaper to rent certain house types.
 
 ## One Bedroom
 
 <p align="center"> <iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/One Bedroom.html"></iframe>
- 
+
+A innovative solution to make one bedrooms a more-cost effective option could be for couples to move in together, as done in many Asian countries, to split rent. This would also benefit from having a greater prevalence of one bedroom listings.
+
 <p align="center"> <iframe width="120%" height="1100" src="https://jaoshang.github.io/QM2groupproject/assets/One Bedroom Shared.html"></iframe>
 
 
