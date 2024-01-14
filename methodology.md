@@ -14,7 +14,7 @@ For any visualisation being made, the first step was always to import the librar
 
 These libraries are for better support with matrices and arrays, data manipulation, making plots and greater customisation of these plots.
 
-<p align="center"> <img src="img/Screenshot 2024-01-14 at 10.15.18.png" alt="Image Alt Text" width="400" /> </p>
+![Alt Text](img/Screenshot 2024-01-14 at 10.15.18.png){: width="400" }
 
 ## Data Cleaning
 Cleaning and correcting raw data improves its quality, accuracy, and reliability for analysis or other purposes. The goal of data cleaning is to ensure that data is free from errors, duplicates, inconsistencies, and other issues that might affect its usability. In our project, the rent data and crime data will be cleaned by applying python, they will be presented in two different data frames.
@@ -23,21 +23,21 @@ We import our rent data and crime data respectively and clean them as follows:
 
 <strong>Rent</strong>
 
-<p align="center"> <img src="img/Screenshot 2024-01-14 at 10.27.11.png" alt="Image Alt Text" width="800" /> </p>
-<p align="center"> <img src="img/Screenshot 2024-01-14 at 10.28.25.png" alt="Image Alt Text" width="500" /> </p>
+![Alt Text](img/Screenshot 2024-01-14 at 10.27.11.png){: width="800" }
+![Alt Text](img/Screenshot 2024-01-14 at 10.28.25.png){: width="500" }
 
 The rent data after cleaning will be presented in the dataframe with columns including information on time period, category, and summary statistics of the rents. We defined our study period as 2012-2018 based on the data available, measuring by year. The dataset includes prices in respect to different types of accommodation, i.e., studio,one bedroom apartment within borough area.
 
 <strong>Crime</strong>
 
-<p align="center"> <img src="img/Screenshot 2024-01-14 at 10.44.57.png" alt="Image Alt Text" width="800" /> </p>
-<p align="center"> <img src="img/Screenshot 2024-01-14 at 10.46.04.png" alt="Image Alt Text" width="500" /> </p>
+![Alt Text](img/Screenshot 2024-01-14 at 10.44.57.png){: width="800" }
+![Alt Text](img/Screenshot 2024-01-14 at 10.46.04.png){: width="500" }
 
 The crime data after cleaning by python is presented in a dataframe with columns including the information of time of crime, crime locations, and crime types. After cleaning, we remain with data of borough-specific crime rates, making our analysis more feasible.
 
 <strong>Travel time Isochrone</strong>
 
-<p align="center"> <img src="img/Screenshot 2024-01-14 at 10.54.46.png" alt="Image Alt Text" width="400" /> </p>
+![Alt Text](img/Screenshot 2024-01-14 at 10.54.46.png){: width="400" }
 
 An isochrone is a geographic area that represents locations reachable within a certain time frame from a specific point, based on a mode of transportation. In our case, the data represents areas that can be reached within 30 minutes of walking, cycling and using public transportation from a specific point, using coordinates (longitude and latitude) that outline the areas.
 
