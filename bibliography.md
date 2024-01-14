@@ -19,7 +19,7 @@ Mazzarol, T. and Soutar, G.N. (2002) ‘“push‐pull” factors influencing In
 
 Neves, J. and Brown, A. (2022) Student Academic Experience Survey 2022 [Preprint]. Available at: https://www.hepi.ac.uk/wp-content/uploads/2022/06/2022-Student-Academic-Experience-Survey.pdf (Accessed: 2023). 
 
-Quacquarelli Symond. (2023) QS best student cities ranking 2024, Top Universities. Available at: https://www.topuniversities.com/city-rankings?tab=indicators (Accessed: 18 December 2023). 
+Quacquarelli Symond. (2023) QS best student cities ranking 2024, Top Universities. Available at: https://www.topuniversities.com/city-rankings?tab=indicators (Accessed: 18 December 2023).
 
 Savills. (2023) Back to basics: The London Housing Supply and Demand Dilemma, Savills UK | Back to Basics: The London housing supply and demand dilemma. Available at: https://www.savills.co.uk/research_articles/229130/332942-0 (Accessed: 18 December 2023). 
 
