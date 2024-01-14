@@ -35,5 +35,12 @@ The rent data after cleaning will be presented in the dataframe with columns inc
 
 The crime data after cleaning by python is presented in a dataframe with columns including the information of time of crime, crime locations, and crime types. After cleaning, we remain with data of borough-specific crime rates, making our analysis more feasible.
 
+<strong>Travel time Isochrone</strong>
+
+<p align="center"> <img src="img/Screenshot 2024-01-14 at 10.54.46.png" alt="Image Alt Text" width="400" /> </p>
+
+An isochrone is a geographic area that represents locations reachable within a certain time frame from a specific point, based on a mode of transportation. In our case, the data represents areas that can be reached within 30 minutes of walking, cycling and using public transportation from a specific point, using coordinates (longitude and latitude) that outline the areas.
+
+
 
 
