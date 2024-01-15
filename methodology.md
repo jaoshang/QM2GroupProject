@@ -56,7 +56,7 @@ We first used the respective data frames to contain necessary data for the map, 
 ### Histogram
 A histogram displays information in a simple manner whilst being effective at emphasising differences. For the sake of this example, we will be making a histogram of the number of rentals by rooms in our rent dataset. This will give an indication of what categories have a greater popularity. Here we are creating a bar chart using 'plt.bar() function and using matplotlib to set the variables we want to plot as x and y
 
-![Alt Text](img/Screenshot 2024-01-14 at 11.16.41.png){: width="400" }
+![Alt Text](img/Screenshot 2024-01-14 at 11.16.41.png){: width="800" }
 
 
 
