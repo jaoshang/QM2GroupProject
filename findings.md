@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Overall Findings
+cover-img: "img/orange-background-with-light-orange-background_873925-13344.jpg.webp"
 ---
 
 ## <span style="color: #D35400 ;">Regarding rent</span>
