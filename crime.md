@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Crime Analysis
-subtitle: Understaning safety across London boroughs
+subtitle: Understanding safety across London boroughs
 ---
 
 
