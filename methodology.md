@@ -15,7 +15,7 @@ For any visualisation being made, the first step was always to import the librar
 
 These libraries are for better support with matrices and arrays, data manipulation, making plots and greater customisation of these plots.
 
-![Alt Text](img/Screenshot 2024-01-14 at 10.15.18.png){: width="400" }
+![Alt Text](img/Screenshot 2024-01-14 at 10.15.18.png){: width="800" }
 
 ## <span style="color: #D35400 ;">Data cleaning</span>
 Cleaning and correcting raw data improves its quality, accuracy, and reliability for analysis or other purposes. The goal of data cleaning is to ensure that data is free from errors, duplicates, inconsistencies, and other issues that might affect its usability. In our project, the rent data and crime data will be cleaned by applying python, they will be presented in two different data frames.
