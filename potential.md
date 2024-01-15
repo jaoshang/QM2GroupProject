@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Impact & further research
+cover-img: "img/Screenshot 2024-01-15 at 17.37.30.png"
 ---
 
 ## <span style="color: #D35400 ;">Impact of our findings</span>
