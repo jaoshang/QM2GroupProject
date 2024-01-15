@@ -25,14 +25,14 @@ We import our rent data and crime data respectively and clean them as follows:
 ### Rent
 
 ![Alt Text](img/Screenshot 2024-01-14 at 10.27.11.png){: width="800" }
-![Alt Text](img/Screenshot 2024-01-14 at 10.28.25.png){: width="500" }
+![Alt Text](img/Screenshot 2024-01-14 at 10.28.25.png){: width="800" }
 
 The rent data after cleaning will be presented in the dataframe with columns including information on time period, category, and summary statistics of the rents. We defined our study period as 2012-2018 based on the data available, measuring by year. The dataset includes prices in respect to different types of accommodation, i.e., studio,one bedroom apartment within borough area.
 
 ### Crime
 
 ![Alt Text](img/Screenshot 2024-01-14 at 10.44.57.png){: width="800" }
-![Alt Text](img/Screenshot 2024-01-14 at 10.46.04.png){: width="500" }
+![Alt Text](img/Screenshot 2024-01-14 at 10.46.04.png){: width="800" }
 
 The crime data after cleaning by python is presented in a dataframe with columns including the information of time of crime, crime locations, and crime types. After cleaning, we remain with data of borough-specific crime rates, making our analysis more feasible.
 
