@@ -31,7 +31,7 @@ From the graph, we can interpet the following:
 
 ### <span style="color: #BA4A00 ;">Discussion of these findings</span>
 #### More People, Cheaper Rent
- - The only outlier is four or more bedroom types, which as discussed in the methodology have been assumed to all be four bedroom houses with four tenants, the most stringent assumption of tenancy.
+ - The only outlier is four or more bedroom types, which, as discussed in the limitations, have been assumed to all be four bedroom houses with four tenants, the most stringent assumption of tenancy.
  - This would result in an overestimation of the price for four or more bedroom houses. Notably, this means that the observation that the median rent of four or more bedroom houses being cheaper than one bedroom, studio, and two bedroom houses is even more significant, as even with this overestimation it is still cheaper than the three types.
 
 #### Share More, Less Rent
