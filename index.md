@@ -15,7 +15,7 @@ cover-img: "img/Screenshot 2023-12-27 at 15.12.38.png"
 ![Alt Text](img/Screenshot 2024-01-13 at 14.40.55.png){: width="100" height="100"}
 <strong>Connectivity</strong>
 
-3. How accessible are these boroughs to UCL, via public transport?
+3. How accessible are these boroughs to UCL, via different modes of transport?
 
 ![Alt Text](img/Screenshot 2024-01-13 at 14.41.03.png){: width="100" height="100"}
 <strong>Safety</strong>
