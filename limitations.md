@@ -29,4 +29,4 @@ Our rent data set identifies various housing configurations, ranging from one be
 
 <strong>4. Restricted connectivity mapping</strong>
 
-For the connectivity analysis, we have chosen to consider transport accessibility of different boroughs to UCL only to narrow our focus and avoid mapping potentially five more areas to connect to other London universities. However, this limits our analysis because we might need to recognise emerging trends by considering routes to other universities.
+For the connectivity analysis, we have chosen to consider transport accessibility of different boroughs to UCL only, to narrow our focus and avoid mapping potentially five more areas to connect to other London universities. However, this limits our analysis because we might need to recognise emerging trends by considering routes to other universities.
