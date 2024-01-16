@@ -2,6 +2,9 @@
 layout: page
 title: Bibliography and Repository
 ---
+## <span style="color: #D35400 ;">Link to Github repository</span>
+https://github.com/jaoshang/QM2groupproject.git
+
 ## <span style="color: #D35400 ;">Works cited</span>
 Bradshaw, T. (2023) Russell Group comments on rising student accommodation costs, The Russell Group. Available at: https://russellgroup.ac.uk/news/russell-group-comments-on-rising-student-accommodation-costs/ (Accessed: 18 December 2023).
 
