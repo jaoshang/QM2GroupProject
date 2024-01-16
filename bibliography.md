@@ -37,5 +37,4 @@ UCAS. (2023) What is the journey to a million?, UCAS. Available at: https://www.
 
 Uis. (2020) Uis statistics, UIS Statistics. Available at: http://data.uis.unesco.org/ (Accessed: 18 December 2023). 
 
-https://data.london.gov.uk/dataset/average-private-rents-borough
 
