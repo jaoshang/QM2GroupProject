@@ -40,7 +40,7 @@ The crime data after cleaning by python is presented in a dataframe with columns
 
 ![Alt Text](img/Screenshot 2024-01-14 at 10.54.46.png){: width="400" }
 
-An isochrone is a geographic area that represents locations reachable within a certain time frame from a specific point, based on a mode of transportation. In our case, the data represents areas that can be reached within 30 minutes of walking, cycling and using public transportation from a specific point, using coordinates (longitude and latitude) that outline the areas.
+An isochrone is a geographic area that represents locations reachable within a certain time frame from a specific point, based on a mode of transportation. In our case, the data represents areas that can be reached within 30 minutes and one hour of walking, cycling and using public transportation from a specific point, using coordinates (longitude and latitude) that outline the areas.
 
 ## <span style="color: #D35400 ;">Data visualisation</span>
 
