@@ -34,7 +34,7 @@ This is also an historical dataset, but appears less clear than the rent data, f
 
 ![Alt Text](img/Screenshot 2024-01-13 at 11.15.14.png){: width="100" height="100"}
 
-## <span style="color: #D35400 ;">Commute Times: - TravelTime API Playground</span>
+## <span style="color: #D35400 ;">Commute Times - TravelTime API Playground</span>
 Finally, geoJSON files bounding areas were generated using a free software, based on:
 
 <strong>1. Mode of Transport</strong>
