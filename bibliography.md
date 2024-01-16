@@ -5,6 +5,13 @@ title: Bibliography and Repository
 ## <span style="color: #D35400 ;">Link to Github repository</span>
 https://github.com/jaoshang/QM2groupproject.git
 
+## <span style="color: #D35400 ;">Datasets</span>
+Rent: https://data.london.gov.uk/dataset/average-private-rents-borough
+
+Crime: https://data.london.gov.uk/dataset/recorded_crime_summary
+
+Connectivity: https://playground.traveltime.com/isochrones
+
 ## <span style="color: #D35400 ;">Works cited</span>
 Bradshaw, T. (2023) Russell Group comments on rising student accommodation costs, The Russell Group. Available at: https://russellgroup.ac.uk/news/russell-group-comments-on-rising-student-accommodation-costs/ (Accessed: 18 December 2023).
 
@@ -29,4 +36,6 @@ Savills. (2023) Back to basics: The London Housing Supply and Demand Dilemma, Sa
 UCAS. (2023) What is the journey to a million?, UCAS. Available at: https://www.ucas.com/about-us/journey-million/what-journey-million (Accessed: 18 December 2023). 
 
 Uis. (2020) Uis statistics, UIS Statistics. Available at: http://data.uis.unesco.org/ (Accessed: 18 December 2023). 
+
+https://data.london.gov.uk/dataset/average-private-rents-borough
 
